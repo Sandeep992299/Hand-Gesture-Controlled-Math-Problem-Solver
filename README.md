@@ -2,7 +2,7 @@
 Hand Gesture Math Solver: Python, OpenCV, and Google's generativeai enable real-time math problem solving via webcam gestures (cvzone). Draw, clear canvas, input expressions—AI processes and displays solutions instantly. Enhances learning with interactive, hands-on engagement.
 
 # Project Overview: Hand Gesture Controlled Math Problem Solver
-# Project Goal:
+Project Goal:
 The goal of this project is to create a real-time interactive application that allows users to solve math problems using hand gestures captured through a webcam. The system detects specific hand gestures to initiate drawing, clearing the canvas, and inputting numerical expressions.
 
 # Key Features:
