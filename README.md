@@ -35,8 +35,10 @@ Provides visual feedback to the user through text overlays on the video feed for
 # Implementation Details:
 Technologies Used: Python, OpenCV, cvzone, generativeai, PIL (Pillow).
 API Integration: Configured with a Google API key (genai.configure(api_key="......")) for generative content processing.
+
 Mathematical Expression Evaluation: Uses Python's eval() function to evaluate user-inputted numerical expressions.
 User Interaction: Users interact with the application by performing specific hand gestures recognized by the system, triggering different functionalities.
+
 Future Enhancements:
 Enhanced Gesture Recognition: Improve accuracy and responsiveness of hand gesture detection.
 Advanced AI Integration: Explore more complex generative models or AI capabilities for broader problem-solving tasks.
